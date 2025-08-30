@@ -20,17 +20,18 @@ Download `bank-additional-full.csv` from:
 2. Download the dataset
 3. Run all cells in sequence
 4. Analyze results and implement recommendations
-```
+
 
 ## Repository Structure
-```
+
+
 bank-marketing-ml/  
 │
-├── README.md                          # Project description and results  
-├── bank_marketing_analysis.ipynb     # Main analysis notebook  
-├── requirements.txt                   # Python dependencies  
+├── `README.md`                          # Project description and results  
+├── `bank_marketing_analysis.ipynb`     # Main analysis notebook  
+├── `requirements.txt`                   # Python dependencies  
 ├── data/  
-│   └── bank-additional-full.csv     # Dataset    
+│   └── `bank-additional-full.csv`     # Dataset    
 ├── models/                          # Saved model files    
 ├── results/                         # Output files and plots  
 └── src/                            # Additional Python modules    
