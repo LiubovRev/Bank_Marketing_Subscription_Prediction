@@ -1,6 +1,7 @@
+```markdown
 ## Dependencies and Setup Instructions
 
-```markdown
+
 ## Required Libraries
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
@@ -22,14 +23,14 @@ Download `bank-additional-full.csv` from:
 
 ## Repository Structure
 ```
-bank-marketing-ml/
+bank-marketing-ml/  
 │
-├── README.md                          # Project description and results
-├── bank_marketing_analysis.ipynb     # Main analysis notebook
-├── requirements.txt                   # Python dependencies
-├── data/
-│   └── bank-additional-full.csv     # Dataset (not included in repo)
-├── models/                          # Saved model files
-├── results/                         # Output files and plots
-└── src/                            # Additional Python modules (if needed)
+├── README.md                          # Project description and results  
+├── bank_marketing_analysis.ipynb     # Main analysis notebook  
+├── requirements.txt                   # Python dependencies  
+├── data/  
+│   └── bank-additional-full.csv     # Dataset    
+├── models/                          # Saved model files    
+├── results/                         # Output files and plots  
+└── src/                            # Additional Python modules    
 ```
