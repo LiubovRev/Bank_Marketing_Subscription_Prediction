@@ -1,27 +1,26 @@
-## Dependencies and Setup Instructions
+Dependencies and Setup Instructions
 
-```markdown
-## Required Libraries
-```bash
+ Required Libraries
+
 pip install pandas numpy matplotlib seaborn scikit-learn
 pip install shap hyperopt xgboost
 pip install jupyter notebook
-```
 
-## Data
+
+Data
 Download `bank-additional-full.csv` from:
 - Kaggle: https://www.kaggle.com/datasets/sahistapatel96/bankadditionalfullcsv
 - Place in the same directory as this notebook
 
-## Usage
+Usage
 1. Install required libraries
 2. Download the dataset
 3. Run all cells in sequence
 4. Analyze results and implement recommendations
-```
 
-## Repository Structure
-```
+
+ Repository Structure
+
 bank-marketing-ml/
 │
 ├── README.md                          # Project description and results
@@ -32,4 +31,3 @@ bank-marketing-ml/
 ├── models/                          # Saved model files
 ├── results/                         # Output files and plots
 └── src/                            # Additional Python modules (if needed)
-```
