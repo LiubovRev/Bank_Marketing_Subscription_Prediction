@@ -17,6 +17,12 @@ scipy
 joblib
 
 ```
+You can install all dependencies using pip:
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn xgboost shap scipy joblib
+
+```
+
 
 ## Data
 Download `bank-additional-full.csv` from:
