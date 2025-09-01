@@ -27,12 +27,12 @@ Download `bank-additional-full.csv` from:
 
 bank-marketing-ml/  
 │
-├── `README.md`                          # Project description and results  
-├── `bank_marketing_analysis.ipynb`     # Main analysis notebook  
-├── `requirements.txt`                   # Python dependencies  
+├── `README.md`                                        # Project description and results  
+├── `bank_marketing_analysis.ipynb`                   # Main analysis notebook  
+├── `requirements.txt`                                 # Python dependencies  
 ├── data/  
-│   └── `bank-additional-full.csv`     # Dataset    
-├── models/                          # Saved model files    
-├── results/                         # Output files and plots  
-└── src/                            # Additional Python modules    
+│   └── `bank-additional-full.csv`                   # Dataset    
+├── models/                                          # Saved model files    
+├── results/                                          # Output files and plots  
+  
 ```
