@@ -5,9 +5,17 @@
 ## Required Libraries
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-pip install shap hyperopt xgboost
-pip install jupyter notebook
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+xgboost
+shap
+scipy
+joblib
+
 ```
 
 ## Data
@@ -16,7 +24,7 @@ Download `bank-additional-full.csv` from:
 - Place in the same directory as this notebook
 
 ## Usage
-1. Install required libraries
+1. Install required libraries 
 2. Download the dataset
 3. Run all cells in sequence
 4. Analyze results and implement recommendations
