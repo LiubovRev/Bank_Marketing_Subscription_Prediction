@@ -11,23 +11,23 @@ build predictive models.
 ## ⚙️ Methods
 
 -   **Data Preprocessing**: Handling missing values, encoding
-    categorical features, and scaling.\
+    categorical features, and scaling.
 -   **Class Imbalance Handling**: SMOTE, ADASYN, and SMOTETomek applied
-    to balance classes.\
+    to balance classes.
 -   **Feature Selection**: ANOVA F-test, Recursive Feature Elimination
-    (RFE), and model-based importance.\
+    (RFE), and model-based importance.
 -   **Models Used**: Logistic Regression, Decision Tree, KNN, Random
-    Forest, Gradient Boosting, and XGBoost.\
+    Forest, Gradient Boosting, and XGBoost.
 -   **Evaluation Metrics**: ROC-AUC, Precision-Recall Curve, F1-score,
     and SHAP interpretability.
 
 ## 📊 Results
 
 -   Ensemble methods (Random Forest, Gradient Boosting, XGBoost)
-    outperformed baseline models.\
+    outperformed baseline models.
 -   Feature importance and SHAP values highlighted key drivers of
     deposit subscription (e.g., contact duration, previous campaign
-    outcomes, and client demographics).\
+    outcomes, and client demographics).
 -   Balanced sampling methods improved recall for the minority class
     (subscribers).
 
