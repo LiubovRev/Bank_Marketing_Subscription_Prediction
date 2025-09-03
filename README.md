@@ -34,9 +34,9 @@ build predictive models.
 ## 🚀 Key Takeaways
 
 -   Direct marketing effectiveness can be **quantitatively assessed and
-    predicted** with ML.\
+    predicted** with ML.
 -   Model interpretability tools like SHAP provide transparency into
-    customer decision drivers.\
+    customer decision drivers.
 -   The project demonstrates the value of combining **EDA, resampling,
     and ensemble modeling** for real-world imbalanced classification
     problems.
